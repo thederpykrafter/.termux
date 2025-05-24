@@ -2,7 +2,7 @@
 # .termux config
 
 ## Theme
-ColorScheme: `argonaut`
+ColorScheme: `tokyodark`
 Font: `Fira Mono`
 
 
