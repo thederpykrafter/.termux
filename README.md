@@ -3,7 +3,7 @@
 
 ## Theme
 ColorScheme: `tokyodark`
-Font: `Fira Mono`
+Font: `Fira Code`
 
 
 # extra keys
